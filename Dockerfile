@@ -21,4 +21,4 @@ EXPOSE 8080
 
 # Define the command to run your application
 # Ensure your main application file is named 'app.js'
-CMD ["node", "app.js"]
+CMD ["node", "main.js"]
